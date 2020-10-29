@@ -12,7 +12,7 @@ public class Test001 {
         Map<String, Object> map=new HashMap<String, Object>();
         map.put("CUSTOMER_NO","123456");
         map.put("CUSTOMER_NAME","渤海银行股份杭州分行");
-        map.put("CUSTOMER_RISK","你是我的优乐美2020");
+        map.put("CUSTOMER_RISK","你是我的优乐美");
         for(int i=0;i<5;i++) {
 			dataList.add(map);
 		}
