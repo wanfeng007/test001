@@ -11,8 +11,8 @@ public class Test001 {
 		List<Map<String, Object>> dataList=new ArrayList<Map<String, Object>>();
         Map<String, Object> map=new HashMap<String, Object>();
         map.put("CUSTOMER_NO","123456");
-        map.put("CUSTOMER_NAME","渤海银行股份杭州分行1234");
-        map.put("CUSTOMER_RISK","高风险");
+        map.put("CUSTOMER_NAME","渤海银行股份杭州分行");
+        map.put("CUSTOMER_RISK","高风险2020");
         for(int i=0;i<5;i++) {
 			dataList.add(map);
 		}
