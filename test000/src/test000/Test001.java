@@ -13,8 +13,8 @@ public class Test001 {
         map.put("CUSTOMER_NO","123456789");
         map.put("CUSTOMER_NAME","渤海银行股份杭州分行");
         map.put("CUSTOMER_RISK","你是我的优乐美123");
-        map.put("CUSTOMER_ROLE","高级傲慢");
-        for(int i=0;i<5;i++) {
+        map.put("CUSTOMER_ROLE","高级傲慢快看看");
+        for(int i=0;i<5;i++) {  
 			dataList.add(map);
 		}
         System.out.println(dataList.toString());
